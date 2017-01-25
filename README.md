@@ -18,7 +18,7 @@
 
 #### -client 
 
-    -Provicer 
+    -Provider 
         {-configureStore} 
             
             {-rootReducer}
