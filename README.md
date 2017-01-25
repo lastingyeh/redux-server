@@ -49,6 +49,6 @@
                             
                             {-createAction(DECREMENT_COUNT)}
                             
-![alt tag]                            
+![alt tag](https://github.com/lastingyeh/redux-server/blob/master/demo.gif)                            
                                                   
 #### refs by https://github.com/kdchang/reactjs101/tree/master/Ch10/react-redux-server-rendering        
